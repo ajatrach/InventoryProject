@@ -1,0 +1,3 @@
+C:/Users/ajatr/CLionProjects/InventoryProject/cmake-build-debug/CMakeFiles/InventoryProject.dir
+C:/Users/ajatr/CLionProjects/InventoryProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ajatr/CLionProjects/InventoryProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
