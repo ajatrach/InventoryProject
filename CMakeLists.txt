@@ -3,4 +3,4 @@ project(InventoryProject)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(InventoryProject main.cpp Product.cpp Product.h)
+add_executable(InventoryProject main.cpp Product.cpp)
