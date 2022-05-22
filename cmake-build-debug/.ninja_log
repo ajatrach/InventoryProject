@@ -1,8 +1,0 @@
-# ninja log v5
-17	335	6748034634409762	build.ninja	3a459324d93b0ba
-12	784	6748034184098532	CMakeFiles/InventoryProject.dir/Product.cpp.obj	b51eff72d0f0cb1e
-12	730	6748034408056198	CMakeFiles/InventoryProject.dir/main.cpp.obj	6300b0d6c43bda81
-23	973	6748038449142782	CMakeFiles/InventoryProject.dir/main.cpp.obj	6300b0d6c43bda81
-5	978	6748038449182812	CMakeFiles/InventoryProject.dir/Product.cpp.obj	b51eff72d0f0cb1e
-4	836	6748046457641848	CMakeFiles/InventoryProject.dir/Product.cpp.obj	b51eff72d0f0cb1e
-25	843	6748046457701855	CMakeFiles/InventoryProject.dir/main.cpp.obj	6300b0d6c43bda81
